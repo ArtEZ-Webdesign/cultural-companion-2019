@@ -51,3 +51,4 @@ The assignment will run for the duration of the entire second semester. You are 
 - [Museum Voorlinden](http://www.voorlinden.nl/museum/tentoonstellingen/)
 - [De Pont](https://depont.nl/te-zien/)
 - [Rijksmuseum](https://www.rijksmuseum.nl/nl/jaar-van-rembrandt)
+- [Meta Tags](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
