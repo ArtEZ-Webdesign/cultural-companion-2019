@@ -1,8 +1,26 @@
+html,
+body {
+	height: 100%;
+}
+
 body {
 	background: #c0ffee;
-	color: #ff00ec;
-	margin: 20px;
-	font-size: 72px;
-	font-family: Helvetica;
-	font-weight: bold;
+	perspective: 100;
+	perspective-origin: center;
+}
+
+.compass {
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+
+.compass1 {
+	background: #000;
+}
+
+.compass2 {
+	background: #decaff;
 }
