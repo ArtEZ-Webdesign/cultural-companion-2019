@@ -1,0 +1,31 @@
+html,
+body {
+	height: 100%;
+}
+
+.circle {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: #C00C00;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	transition: background-color .5s ease, width .5s ease, height .5s ease;
+}
+
+.circle.active {
+	width: 100px;
+	height: 100px;
+	background-color: #BADA55;
+}
+
+.circle .label {
+	font-family: monospace;
+	font-size: 8px;
+	position: absolute;
+	left: 100%;
+	bottom: 100%;
+	text-transform: uppercase;
+	color: #666;
+	transform: translate(2px, -2px);
+}
